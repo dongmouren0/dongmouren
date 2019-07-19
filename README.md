@@ -7,10 +7,6 @@
 **Office:** 哈尔滨南岗区西大直街92号明德楼204
 
 
-</div>
-
-</div>
-
 ### Research interests
 
 我本身对数论感兴趣，后来发现是对解决数论问题用到的代数结构感兴趣。而后发现对几何对象的研究可以帮助我们理解代数结构，
@@ -28,7 +24,7 @@ quiver of type ADE](https://arxiv.org/pdf/1802.01792.pdf)
 ## My CV [here](https://github.com/dongmouren0/dongmouren/blob/master/cv%20(8)%20(1).pdf)
 
 ### Teaching
-我目前不教课。
+currently none
 ## upcoming activities
 
 东北天元 2019.7.28-8.18 哈尔滨工程大学
