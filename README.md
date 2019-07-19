@@ -25,7 +25,7 @@ quiver of type ADE](https://arxiv.org/pdf/1802.01792.pdf)
 
 [Phd Thesis version](https://scholarworks.umass.edu/dissertations_2/1335/)
 
-## My CV [here](cv (8) (1).pdf)
+## My CV [here](https://github.com/dongmouren0/dongmouren/blob/master/cv%20(8)%20(1).pdf)
 
 ### Teaching
 我目前不教课。
