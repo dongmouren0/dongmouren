@@ -14,18 +14,21 @@
 quiver variety,对他们之间的关系很感兴趣。我对他们背后的物理很感兴趣.
 
 ## My papers and preprints:
+[Convolution algebra of diagram automorphism fixed quiver variety, with Ma Haitao] (https://arxiv.org/abs/1911.07407)
+[Equivariant homology theory and twisted Yangian, with Ma Haitao] (https://arxiv.org/abs/1911.07043)
+
 [A relation between Mirkovi´c-Vilonen cycles and
 modules over preprojective algebra of Dynkin
 quiver of type ADE](https://arxiv.org/pdf/1802.01792.pdf)
 
-
 [Phd Thesis version](https://scholarworks.umass.edu/dissertations_2/1335/)
-
+[an more resent version]() 
 ## My CV [here](https://github.com/dongmouren0/dongmouren/blob/master/cv%20(8)%20(1).pdf)
 
 ### Teaching
 currently none
 ## upcoming activities
-
-东北天元 2019.7.28-8.18 哈尔滨工程大学
+2019 12.23-28 西南天元 Lie algebra etc.
+2019.12.16-20 三亚清华数学论坛 
+ 2019.7.28-8.18 哈尔滨工程大学
 西南天元 2019.8.5-8.20 四川大学
