@@ -23,7 +23,7 @@ quiver of type ADE](https://arxiv.org/pdf/1802.01792.pdf)
 
 [Phd Thesis version](https://scholarworks.umass.edu/dissertations_2/1335/)
 [an more resent version](https://github.com/dongmouren0/dongmouren/blob/master/loop_Grassmannian.pdf) 
-## My CV [here](https://github.com/dongmouren0/dongmouren/raw/master/cv%20(10).pdf)
+## My CV [here](https://github.com/dongmouren0/dongmouren/raw/master/cv%20(10).pdf?raw=true)
 ### Teaching
 currently none
 ## upcoming activities
